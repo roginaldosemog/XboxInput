@@ -1,0 +1,5 @@
+__pycache__/
+*.xex
+*.bin
+*.json
+*.log
